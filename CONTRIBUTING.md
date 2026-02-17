@@ -36,6 +36,14 @@ Run these before pushing:
 - Markdown lint (if docs changed)
 - Any project-specific checks in CI
 
+## Markdown style guardrails
+
+To keep CI green, follow these conventions in markdown files:
+
+- Use a single top-level heading (`#`) as the first heading in each file.
+- Keep one blank line around headings and lists.
+- Avoid trailing punctuation in headings.
+
 ## Code of Conduct
 
 Be respectful, clear, and collaborative in reviews and discussions.
