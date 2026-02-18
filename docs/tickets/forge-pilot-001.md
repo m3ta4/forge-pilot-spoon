@@ -1,5 +1,11 @@
 # Ticket: FORGE-PILOT-001 - Add pilot execution guide
 
+<!-- forge:status -->
+Status: In Progress
+ForgeRun: run_mlrbmflr_tebwo7y1
+Branch: forge/docs-all-tickets-8
+<!-- /forge:status -->
+
 ## Goal
 
 Add a concise guide that explains how to run the Forge pilot flow in this repository.
