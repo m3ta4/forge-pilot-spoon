@@ -1,5 +1,11 @@
 # Ticket: FORGE-PILOT-003 - Create verification failure drill
 
+<!-- forge:status -->
+Status: In Progress
+ForgeRun: run_mlrbisxb_sem13sae
+Branch: forge/docs-all-tickets-7
+<!-- /forge:status -->
+
 ## Goal
 
 Add a controlled docs-only failure scenario to verify that Forge detect-and-report behavior is clear.
