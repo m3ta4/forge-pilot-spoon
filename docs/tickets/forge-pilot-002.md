@@ -1,5 +1,12 @@
 # Ticket: FORGE-PILOT-002 - Add receipt quality checklist
 
+<!-- forge:status -->
+Status: In Progress
+ForgeRun: run_mlrbdf7r_74082o05
+Branch: forge/docs-all-tickets-6
+<!-- /forge:status -->
+
+
 ## Goal
 
 Document what "good" Forge receipts look like so each pilot run can be evaluated consistently.
